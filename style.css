@@ -1,0 +1,25 @@
+#stroud {
+font-size: 100px;
+color: navy;
+font-family: Arial, Helvetica, sans-serif;
+display: inline;
+text-transform: uppercase;
+}
+
+#crafts {
+font-size: 100px;
+color: blue;
+font-family: Arial, Helvetica, sans-serif;
+display: inline;
+text-transform: uppercase;
+}
+
+#header {
+    position: fixed;
+width: 500px;
+height: 200px;i
+margin: 5% auto;
+left: 0;
+right: 0;
+}
+
