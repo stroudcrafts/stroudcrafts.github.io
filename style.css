@@ -1,25 +1,29 @@
-#stroud {
-font-size: 100px;
-color: navy;
-font-family: Arial, Helvetica, sans-serif;
-display: inline;
-text-transform: uppercase;
+
+#fixedheader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
 }
 
-#crafts {
-font-size: 100px;
-color: blue;
-font-family: Arial, Helvetica, sans-serif;
-display: inline;
-text-transform: uppercase;
+
+#headcolor {
+  width: 100%;
+  background-color: grey;
 }
 
-#header {
-    position: fixed;
-width: 500px;
-height: 200px;i
-margin: 5% auto;
-left: 0;
-right: 0;
+
+#footheader {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
 }
 
+
+#footcolor {
+  width: 100%;
+  background-color: grey;
+}
