@@ -11,7 +11,7 @@
 
 #stroudcrafts {
   font-size: 40px;
-  color: black;
+  color: #00a992;
     padding-top: 0px;
     padding-right: 0px;
     padding-bottom: 0px;
@@ -19,6 +19,7 @@
 }
 
 #headcolor {
+    background-color: white;
   width: 100%;
   display: inline-block;
 }
@@ -45,8 +46,9 @@
 
 
 #footcolor {
+     background-color: white;
   width: 100%;
-  background-color: grey;
+color: #2666ba;
   display: inline-block;
   height: 50px;
   font-size: 14px;
