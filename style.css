@@ -21,13 +21,18 @@
 #headcolor {
   width: 100%;
   display: inline-block;
-
 }
 
 #content {
-    width: 30%;
-    float: right;
+    padding-top: 200px;
     color: white;
+}
+
+#cotswolds {
+    margin: auto;
+    height:50px;
+    width: 50px;
+    background-color: red;
 }
 
 #fixedfooter {
