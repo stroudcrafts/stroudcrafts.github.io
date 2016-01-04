@@ -5,21 +5,32 @@
   left: 0;
   width: 100%;
   text-align: center;
+
 }
 
+
+#stroudcrafts {
+  font-size: 40px;
+  color: black;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
 
 #headcolor {
   width: 100%;
-
-  color: white;
   display: inline-block;
-  font-size: 20px;
-
 
 }
 
+#content {
+    width: 30%;
+    float: right;
+    color: white;
+}
 
-#footheader {
+#fixedfooter {
   position: fixed;
   bottom: 0;
   left: 0;
